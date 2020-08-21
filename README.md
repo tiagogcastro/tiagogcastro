@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <img src="boneco.png">
 
@@ -32,3 +33,21 @@ Oi, prazer.. Me chamo Tiago, tenho 16 anos e ..
 <p>
 😄 Divertido, feliz e bom aproveitador da vida e oportunidades.💜
 </p>
+=======
+### Hi there 👋
+
+<!--
+**Tiaguin061/Tiaguin061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 2d0c6370b2729e2a9cc33a7372daa5df5d4ae427
