@@ -1,6 +1,3 @@
-
-<img src="boneco.png">
-
 ## Sobre mim
 ___
 <p>
