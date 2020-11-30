@@ -5,6 +5,7 @@ Bem vindo ao perfil de um Jovem que atualmente está apaixonado por tecnologia�
 </p>
 
 ## 💻 Conheça algumas tecnologias que eu domino:
+```js
 const Tech = [
     <li>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 'Javascript'</a> 
@@ -22,9 +23,10 @@ const Tech = [
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> 'Css' </a>
     </li>
 ]
+```
 
 ## 🚀 O que continuo me especializando e/ou aprendendo: 
-
+```js
 const SpecializingStudying = [
     <li>
         <a href="https://pt-br.reactjs.org"> 'ReactJs' </a> 
@@ -38,15 +40,17 @@ const SpecializingStudying = [
      <li>
         <a href="https://nodejs.org/en/">'NodeJs' </a>
     </li>
-
 ]
+```
 
 ## 🚀 O que eu pretendo Estudar?
+```js
 const Learning = [
      <li>
         <a href=""> 'React Native'</a> 
     </li>
 ]
+```
 
 ## 📱 Entre em contato comigo
 <li>
