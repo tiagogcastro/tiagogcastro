@@ -1,31 +1,66 @@
 ## Sobre mim
-___
+
 <p>
-Bem vindo ao meu perfil.
+Bem vindo ao perfil de um Jovem que atualmente está apaixonado por tecnologia💜, e como pode ver abaixo, eu amo um Javascript 😄.
 </p>
-💻 Comecei a ver programação no inicio de 2020, com o tempo venho me especializando e agora tenho dominio em algumas linguagens:
-<ul> 
+
+## 💻 Conheça algumas tecnologias que eu domino:
+
+const tech = [
     <li>
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> Javascript</a> 
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 'Javascript'</a> 
     </li>
     <li>
-        <a href="https://nodejs.org/en/"> NodeJs </a>
+        <a href="https://nodejs.org/en/">'NodeJs'</a>
+    </li>
+     <li>
+        <a href="#">'Banco de Dados PostgresSQL' </a>
     </li>
     <li>
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> Html </a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> 'Html' </a>
     </li>
     <li>
-        <a href="#">Banco de Dados PostgresSQL </a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> 'Css' </a>
+    </li>
+]
+
+<p>
+## 🚀 O que continuo me especializando e/ou aprendendo: 
+</p>
+
+<ul>
+const specializingStudying = [
+    <li>
+        <a href=""> 'ReactJs'</a> 
     </li>
     <li>
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> Css </a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">'Javascript'</a>
     </li>
+     <li>
+        <a href="https://nodejs.org/en/">'NodeJs' </a>
+    </li>
+]
 </ul>
 
 <p>
-🚀 Tenho um objetivo de cada vez mais entender todo esse mundo da programação e cada vez me especializar mais, pretendo começar desenvolver para mobile em breve.
+## 🚀 O que eu pretendo Estudar?
 </p>
-
+<ul>
+const Learning = [
+     <li>
+        <a href=""> 'React Native'</a> 
+    </li>
+]
+</ul>
 <p>
-😄 Divertido, feliz e bom aproveitador da vida e oportunidades.💜
+## Entre em contato comigo
+<li>
+    <span> Gmail: tiaguin180@gmail.com</span> 
+</li>
+<li>
+    <span>Linkedin: <a href="">Clique aqui </a> </span>
+</li>
+ <li>
+     <span>Discord: Tiaguin061#2748 </span>
+</li>
 </p>
