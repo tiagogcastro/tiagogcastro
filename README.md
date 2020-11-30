@@ -5,8 +5,7 @@ Bem vindo ao perfil de um Jovem que atualmente está apaixonado por tecnologia�
 </p>
 
 ## 💻 Conheça algumas tecnologias que eu domino:
-
-const tech = [
+const Tech = [
     <li>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 'Javascript'</a> 
     </li>
@@ -24,12 +23,9 @@ const tech = [
     </li>
 ]
 
-<p>
 ## 🚀 O que continuo me especializando e/ou aprendendo: 
-</p>
 
-<ul>
-const specializingStudying = [
+const SpecializingStudying = [
     <li>
         <a href=""> 'ReactJs'</a> 
     </li>
@@ -40,27 +36,21 @@ const specializingStudying = [
         <a href="https://nodejs.org/en/">'NodeJs' </a>
     </li>
 ]
-</ul>
 
-<p>
 ## 🚀 O que eu pretendo Estudar?
-</p>
-<ul>
 const Learning = [
      <li>
         <a href=""> 'React Native'</a> 
     </li>
 ]
-</ul>
-<p>
-## Entre em contato comigo
+
+## 📱 Entre em contato comigo
 <li>
     <span> Gmail: tiaguin180@gmail.com</span> 
 </li>
 <li>
-    <span>Linkedin: <a href="">Clique aqui </a> </span>
+    <a href="https://www.linkedin.com/in/tiagogoncalves200428/">Linkedin</a>
 </li>
  <li>
      <span>Discord: Tiaguin061#2748 </span>
 </li>
-</p>
