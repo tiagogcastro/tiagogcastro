@@ -27,7 +27,10 @@ const Tech = [
 
 const SpecializingStudying = [
     <li>
-        <a href="https://pt-br.reactjs.org"> 'ReactJs'</a> 
+        <a href="https://pt-br.reactjs.org"> 'ReactJs' </a> 
+    </li>
+    <li>
+        <a href="">'TypeScript' </a>
     </li>
     <li>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">'Javascript'</a>
@@ -35,6 +38,7 @@ const SpecializingStudying = [
      <li>
         <a href="https://nodejs.org/en/">'NodeJs' </a>
     </li>
+
 ]
 
 ## 🚀 O que eu pretendo Estudar?
