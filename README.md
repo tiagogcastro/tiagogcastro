@@ -30,21 +30,21 @@ const SpecializingStudying = [
         <a href="https://pt-br.reactjs.org"> 'ReactJs' </a> 
     </li>
     <li>
-        <a href="">'TypeScript' </a>
-    </li>
-    <li>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">'Javascript'</a>
     </li>
      <li>
         <a href="https://nodejs.org/en/">'NodeJs' </a>
+    </li>
+    <li>
+        <a href=""> 'React Native'</a> 
     </li>
 ]
 
 ## 🚀 O que eu pretendo Estudar?
 
 const Learning = [
-     <li>
-        <a href=""> 'React Native'</a> 
+    <li>
+        <a href="">'TypeScript' </a>
     </li>
 ]
 
