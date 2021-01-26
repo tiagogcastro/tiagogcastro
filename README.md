@@ -1,7 +1,8 @@
 ## Sobre mim
 
 <p>
-Bem vindo ao perfil de um Jovem que atualmente está apaixonado por tecnologia💜, e como pode ver abaixo, eu amo um Javascript 😄.
+Bem vindo ao perfil de um Jovem de 16 anos que atualmente está apaixonado por tecnologia💜.
+Veja um pouco mais da minha tragetória no meu Website: https://tiagogoncalves.netlify.app.
 </p>
 
 ## 💻 Conheça algumas tecnologias que eu domino:
