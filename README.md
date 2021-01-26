@@ -1,9 +1,7 @@
 ## Sobre mim
 
-<p>
-Bem vindo ao perfil de um Jovem de 16 anos que atualmente está apaixonado por tecnologia💜.
-Veja um pouco mais da minha tragetória no meu Website: https://tiagogoncalves.netlify.app.
-</p>
+<p>Bem vindo ao perfil de um Jovem de 16 anos que atualmente está apaixonado por tecnologia💜.</p>
+<p>Veja um pouco mais da minha tragetória no meu Website: https://tiagogoncalves.netlify.app.</p>
 
 ## 💻 Conheça algumas tecnologias que eu domino:
 const Tech = [
