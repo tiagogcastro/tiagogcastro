@@ -5,47 +5,46 @@
 
 ## 💻 Conheça algumas tecnologias que eu domino:
 const Tech = [
-    <li>
+    <p>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 'Javascript'</a> 
-    </li>
-    <li>
+    </p>
+    <p>
         <a href="https://nodejs.org/en/">'NodeJs'</a>
-    </li>
-     <li>
-        <a href="#">'Banco de Dados PostgresSQL' </a>
-    </li>
-    <li>
-        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> 'Html' </a>
-    </li>
-    <li>
+    </p>
+     <p>
+        <a >'Banco de Dados PostgresSQL' </a>
+    </p>
+    <p>
+        <a href="https://pt-br.reactjs.org"> 'ReactJS' </a>
+    </p>
+    <p>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> 'Css' </a>
-    </li>
+    </p>
 ]
 
 
-## 🚀 O que continuo me especializando e/ou aprendendo: 
+## 🚀 O que continuo me especializando e/ou iniciando: 
 const SpecializingStudying = [
-    <li>
-        <a href="https://pt-br.reactjs.org"> 'ReactJs' </a> 
-    </li>
-    <li>
+    <p>
+        <a href="https://pt-br.reactjs.org"> 'ReactJS' </a> 
+    </p>
+    <p>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">'Javascript'</a>
-    </li>
-     <li>
+    </p>
+     <p>
         <a href="https://nodejs.org/en/">'NodeJs' </a>
-    </li>
-    <li>
-        <a href=""> 'React Native'</a> 
-    </li>
+    </p>
+    <p>
+        <a > 'React Native'</a> 
+    </p>
+    <p>
+        <a >'TypeScript' </a>
+    </p>
 ]
 
 ## 🚀 O que eu pretendo Estudar?
 
-const Learning = [
-    <li>
-        <a href="">'TypeScript' </a>
-    </li>
-]
+* Atualmente estou estudando tudo que pretendia.
 
 ## 📱 Entre em contato comigo
 <li>
