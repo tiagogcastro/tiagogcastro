@@ -2,7 +2,7 @@
 
 <p>👋 Bem vindo ao meu Github.</p>
 
-<p> Sou apenas um jovem de 16 anos que ama a <strong>tecnologia</strong> e a <strong>programação.</strong></p>
+<p> Sou apenas um jovem de 17 anos que ama a <strong>tecnologia</strong> e a <strong>programação.</strong></p>
 
 <p>💻 Minha história na programação começou no inicio de 2020 quando conheci o python, que logo depois migrei para <strong>Javascript</strong>.</p>
 
