@@ -4,8 +4,6 @@
 
 <p> Sou apenas um jovem de 17 anos que ama a <strong>tecnologia</strong> e a <strong>programação.</strong></p>
 
-<p>💻 Minha história na programação começou no inicio de 2020 quando conheci o python, que logo depois migrei para <strong>Javascript</strong>.</p>
-
 <p>🚀 Estudando cada dia mais para aprimorar minhas habilidades e me tornar um ótimo profissional.</p>
 
 <p>Atualmente estudo/desenvolvo em 
@@ -24,13 +22,16 @@ e algumas outras.</p>
 
 <br/>
 
-<p>
-➡ Abaixo deixo o site do meu portfólio. Lá explico mais sobre minha tragetória e mostro todas as tecnologias que domino/estudo e outras coisas 💜!
-Obs: Tela para mobile sendo feita, abra em dispositivos Desktop!
+___
 
-➡ <a href="https://tiagogoncalves.netlify.app">Clique aqui</a>
-</p>
+<h3>💻 | Website do meu portfólio.</h3>
+<p>➡ <a href="https://tiagogoncalves.netlify.app">Clique aqui</a><p/>
+<span>➡ *Adaptado para todas as telas.*</span>
+<br/>
+<p>➡ Algum erro ou sugestão? Fale comigo em alguma rede social abaixo. </p>
 
+ ___
+  
 <div align="left">
   <h1 id="rede-social">📱 Minhas redes sociais</h1>
   <p>➡ Abaixo está algumas das minhas redes sociais que você pode interagir comigo.
