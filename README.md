@@ -6,8 +6,8 @@
 
 <p>🚀 Estudando cada dia mais para aprimorar minhas habilidades e me tornar um ótimo profissional.</p>
 
-<p>Atualmente estudo/desenvolvo em 
-<span style="border-bottom: 1px solid #8BE9FD"> ReactJS, NodeJS, Typescript</span> 
+<p>Atualmente estudo/desenvolvo na stack Javascript(
+<span style="border-bottom: 1px solid #8BE9FD"> ReactJS, NodeJS, Typescript</span>)
 e algumas outras.</p>
 
 </br>
