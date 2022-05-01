@@ -5,7 +5,7 @@
 <p>Atualmente estudo/desenvolvo na stack Javascript, tendo como principal as techs: 
 <strong> ReactJS, NodeJS, Typescript</strong></p>
 
-<p> 🚀 Com 17 anos, eu me sinto imparável em ter conhecimento para desenvolver coisas que há um tempo atrás nem sabia como iniciar e, para mim, isto é perfeito </p>
+<p> 🚀 Com 18 anos, eu me sinto imparável em ter conhecimento para desenvolver coisas que há um tempo atrás nem sabia como iniciar e, para mim, isto é perfeito </p>
 
 </br>
 
