@@ -1,16 +1,20 @@
-Sou **Desenvolvedor de Software há 3 anos** e gosto de me envolver em desafios, conversar com especialistas, visando evoluir constantemente. Profissional com ótima capacidade de comunicação e bons conhecimentos em Javascript. Capaz de auxiliar na rotina diária e oferecer um serviço de qualidade, buscando soluções aos problemas apresentados.
+Sou **Desenvolvedor de Software desde Jan/2020** e gosto de me envolver em desafios, conversar com especialistas, visando evoluir constantemente em equipe, além de aprender algo novo diáriamente.
+<br /> Possuo softskills que ajudam no âmbito profissional e cooperativo, tais como trabalho em equipe, comunicação, colaboração, capacidade de resolver problemas e outros. <br />
+Hoje sou Desenvolvedor de Sistemas Junior na Global Hitss e atuo em projeto desenvolvendo plataforma de dados utilizando AWS, NodeJS e NextJS.
 
-💻 Linguagens | Frameworks | Ferramentas: 
+💻 Linguagens, Frameworks e Ferramentas que possuo capacidade de utilizar:
+- Diversos serviços da AWS, tais como: Glue, S3, Bedrock AI, RDS, Cognito e entre outros.
+
 - Javascript | Typescript
 - NodeJs
+- ReactJs | NextJs
 - NestJs
 - Graphql
 - Firebase
-- PrismaOrm | Typeorm | PostgresSQL
-- ReactJs | NextJs
-- ChakraUI | Styled Components | Scss | Css
+- PrismaOrm | Typeorm | PostgresSQL | MySQL
+- ChakraUI | Styled Components | Scss | Css | Shadcn | Tailwind
 - Git
-- Windows
+- Windows | Ubuntu 
 - Docker
 - Microservices | SOLID | Clean architecture | Clean code
 
@@ -18,7 +22,7 @@ Sou **Desenvolvedor de Software há 3 anos** e gosto de me envolver em desafios,
 
 💌 Entre em contato comigo: ⤵️
 <p>
-  <strong>E-mail</strong>: tiaguin180@gmail.com
+  <strong>E-mail</strong>: tiago.castro.3@globalhitss.com.br | tiaguin180@gmail.com
 </p>
 <a href="https://www.linkedin.com/in/tiagogoncalvesdecastro/"  target="_blank">
   <img 
