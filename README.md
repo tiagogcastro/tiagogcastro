@@ -1,9 +1,17 @@
 Sou **Desenvolvedor de Software desde Jan/2020** e gosto de me envolver em desafios, conversar com especialistas, visando evoluir constantemente em equipe, além de aprender algo novo diáriamente.
 <br /> Possuo softskills que ajudam no âmbito profissional e cooperativo, tais como trabalho em equipe, comunicação, colaboração, capacidade de resolver problemas e outros. <br />
-Hoje sou Desenvolvedor de Sistemas Junior na Global Hitss e atuo em projeto desenvolvendo plataforma de dados utilizando AWS, NodeJS e NextJS.
+Hoje sou Desenvolvedor de Sistemas Junior na Global Hitss e atuo em projeto desenvolvendo a plataforma de dados Lakeit utilizando os serviços da AWS aplicando no NodeJS e NextJS.
 
 💻 Linguagens, Frameworks e Ferramentas que possuo capacidade de utilizar:
-- Diversos serviços da AWS, tais como: Glue, S3, Bedrock AI, RDS, Cognito e entre outros.
+- Diversos serviços da AWS:
+  - Glue (Tables, Connections, ETL Jobs, Data Quality, Sensitive Data Detection)
+  - S3
+  - Bedrock AI
+  - RDS
+  - Cognito
+  - Elastic Container Service(ECS)
+  - Athena
+  - Secret Manager
 
 - Javascript | Typescript
 - NodeJs
@@ -39,4 +47,4 @@ Hoje sou Desenvolvedor de Sistemas Junior na Global Hitss e atuo em projeto dese
 
 Informações sobre meu **Github**:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiaguin061&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogcastro&show_icons=true&theme=radical)
