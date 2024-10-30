@@ -5,6 +5,9 @@ Hoje sou Desenvolvedor de Sistemas Junior na Global Hitss e atuo em projeto dese
 💻 Linguagens, Frameworks e Ferramentas que possuo capacidade de utilizar:
 - Diversos serviços da AWS:
   - Glue (Tables, Connections, ETL Jobs, Data Quality, Sensitive Data Detection)
+  - Step Functions
+  - Lambda
+  - IAM
   - S3
   - Bedrock AI
   - RDS
