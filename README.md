@@ -1,5 +1,5 @@
-Sou **Desenvolvedor de Software desde Jan/2020** e gosto de me envolver em desafios, conversar com especialistas, visando evoluir constantemente em equipe, além de aprender algo novo diáriamente.
-<br /> Possuo softskills que ajudam no âmbito profissional e cooperativo, tais como trabalho em equipe, comunicação, colaboração, capacidade de resolver problemas e outros. <br />
+Sou **Desenvolvedor de Software desde Jan/2020** e gosto de me envolver em desafios, conversar com especialistas, visando evoluir constantemente em equipe, além de aprender algo novo diariamente.
+<br /> Possuo "SoftSkills" que ajudam no âmbito profissional e cooperativo, tais como trabalho em equipe, comunicação, colaboração, capacidade de resolver problemas e outros. <br />
 Hoje sou Desenvolvedor de Sistemas Junior na Global Hitss e atuo em projeto desenvolvendo a plataforma de dados Lakeit utilizando os serviços da AWS aplicando no NodeJS e NextJS.
 
 💻 Linguagens, Frameworks e Ferramentas que possuo capacidade de utilizar:
