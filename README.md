@@ -2,8 +2,6 @@ Sou **Desenvolvedor de Software desde Jan/2020** e gosto de me envolver em desaf
 <br /> Possuo "SoftSkills" que ajudam no âmbito profissional e cooperativo, tais como trabalho em equipe, comunicação, colaboração, capacidade de resolver problemas e outros. <br />
 Hoje sou Desenvolvedor de Sistemas Junior na Global Hitss e atuo em projeto desenvolvendo a plataforma de dados Lakeit utilizando os serviços da AWS aplicando no NodeJS e NextJS.
 
-📄 Segue o meu currículo: [Clique aqui para baixar o PDF](URL_DO_PDF)
-
 💻 Linguagens, Frameworks e Ferramentas que possuo capacidade de utilizar:
 - Diversos serviços da AWS:
   - Glue (Tables, Connections, ETL Jobs, Data Quality, Sensitive Data Detection)
@@ -32,6 +30,8 @@ Hoje sou Desenvolvedor de Sistemas Junior na Global Hitss e atuo em projeto dese
 - Microservices | SOLID | Clean architecture | Clean code
 
 <br />
+
+📄 Segue o meu currículo: [Clique aqui para baixar o PDF](curriculo-tiago-goncalves.pdf)
 
 💌 Entre em contato comigo: ⤵️
 <p>
