@@ -10,58 +10,62 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-Desenvolvedor Fullstack Cloud com foco em **Node.js**, **TypeScript**, **React**, **Next.js**, **AWS**, **GCP**, **Data Lake**, **DevOps**, **IaC** e **IA Generativa**.
+Fullstack Cloud Developer focused on **Node.js**, **TypeScript**, **React**, **Next.js**, **AWS**, **GCP**, **Data Lake**, **DevOps**, **IaC** and **Applied AI**.
 
-Atuo no desenvolvimento de aplicações web, APIs, plataformas cloud, pipelines de dados, integrações, sistemas em tempo real e soluções com IA aplicadas a ambientes reais de produção.
+I work across product and infrastructure, building web applications, APIs, cloud platforms, data pipelines, integrations, real-time systems and AI-powered solutions for real production environments.
 
-[LinkedIn](https://www.linkedin.com/in/tiagogoncalvesdecastro) · [GitHub](https://github.com/tiagogcastro) · [Currículo em PDF](./Tiago-Goncalves-Desenvolvedor-Fullstack-Cloud.pdf)
-
----
-
-## Sobre mim
-
-Atualmente trabalho na evolução técnica do **Lakeit**, uma plataforma enterprise de Data Lake, com foco em AWS, Terraform, Terragrunt, pipelines de dados, governança cloud, redução de custos e IA aplicada à exploração de dados.
-
-Também lidero a arquitetura da **Futbuynow**, plataforma gamer para EA FC e produtos digitais, com marketplace, afiliados, vendedores, pagamentos online, SEO técnico, blog multi-idioma e operações em tempo real.
+[LinkedIn](https://www.linkedin.com/in/tiagogcastro) · [GitHub](https://github.com/tiagogcastro) · [Resume PT-BR](./Tiago_Castro_Resume_Fullstack_Cloud_Developer_en_US.pdf)
 
 ---
 
-## Áreas de foco
+## About me
+
+I currently work on the technical evolution of **Lakeit**, an enterprise Data Lake platform, focusing on AWS, Terraform, Terragrunt, data pipelines, cloud governance, cost optimization, applied AI and production support for environments with active clients.
+
+I also work on demand as the technical owner of **Futbuynow**, a digital marketplace platform in the gaming niche, involving sellers, affiliates, online payments, technical SEO, data analysis, infrastructure, AI automations and real-time operations.
+
+I am focused on growing into roles with greater technical responsibility, connecting software development, architecture, cloud, product, data and applied AI while staying hands-on and close to the code.
+
+---
+
+## Focus areas
 
 - Fullstack Cloud
-- Arquitetura AWS/GCP
-- Data Lake e ETL
-- DevOps e IaC
-- IA Generativa
-- Sistemas em tempo real
-- Pagamentos online
-- SEO técnico
+- AWS/GCP architecture
+- Data Lake and data pipelines
+- DevOps and infrastructure as code
+- Applied AI and LLM automations
+- Real-time systems
+- Marketplaces and online payments
+- Technical SEO and data analysis
 
 ---
 
-## Principais experiências
+## Main experience
 
 ### Lakeit
 
-- Redução de custos AWS de uma média acima de **US$ 2.300/mês** para aproximadamente **US$ 1.100/mês**
-- Infraestrutura como código com **Terraform** e **Terragrunt**
-- Pipelines com **S3**, **SQS**, **SNS**, **Step Functions**, **Glue**, **Athena**, **Lambda**, **IAM** e **Lake Formation**
-- Assistente de IA com **AWS Bedrock**, **RAG**, memória conversacional, geração de SQL Athena e schemas no Glue
-- Atuação com clientes e stakeholders para análise de problemas, feedbacks, demandas e evolução da plataforma
+- Technical evolution of an enterprise Data Lake platform in production with active clients
+- AWS cost reduction from an average above **US$ 2,300/month** to a range between **US$ 800 and US$ 1,000/month**
+- Infrastructure as code with **Terraform** and **Terragrunt**
+- Data pipelines with **S3**, **SQS**, **SNS**, **Step Functions**, **Glue**, **Athena**, **Lambda**, **IAM** and **Lake Formation**
+- AI assistant with **AWS Bedrock**, **RAG**, conversational memory, Athena SQL generation, Glue schemas, reports and charts
+- Work with clients and stakeholders on requirements analysis, technical presentations, training sessions and platform evolution
 
 ### Futbuynow
 
-- Plataforma com **11.000+ usuários cadastrados**
-- **26.000+ pedidos criados** e **20.000+ pedidos pagos**
-- Média de **500 a 800 pedidos pagos/mês** e **400 a 500 compradores ativos mensais**
-- Integrações com **OpenPix**, **Stripe** e **PayPal**
-- Operações em tempo real com **Socket.io**
-- Blog multi-idioma com **1.400+ posts em 16 idiomas**
-- SEO com **30,4 mil cliques** e **1,94 milhão de impressões** em 12 meses
+- Digital marketplace platform in the gaming niche
+- **11,000+ registered users**
+- **26,000+ created orders** and **20,000+ paid orders**
+- Average of **500 to 800 paid orders/month** and **400 to 500 active buyers/month**
+- Integrations with **OpenPix**, **Stripe** and **PayPal**
+- Real-time operations with **Socket.IO**
+- Technical SEO with **30.4k clicks** in 12 months
+- Infrastructure with **Cloudflare**, **Vercel**, **Railway**, **AWS RDS** and **GitHub Actions**
 
 ---
 
-## Stack
+## Main stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
@@ -72,8 +76,8 @@ Também lidero a arquitetura da **Futbuynow**, plataforma gamer para EA FC e pro
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square" />
 </p>
 
-- Node.js · TypeScript · React · Next.js · NestJS
+- Node.js · TypeScript · React · Next.js · NestJS · Express
 - AWS · GCP · Terraform · Terragrunt · Docker · GitHub Actions
 - S3 · SQS · SNS · Step Functions · Glue · Athena · Lambda · Bedrock
-- Vertex AI · BigQuery · PostgreSQL · MySQL · Socket.io
-- Cloudflare · Vercel · Stripe · PayPal · OpenPix
+- Vertex AI · BigQuery · PostgreSQL · MySQL · Redis · Socket.IO
+- Cloudflare · Vercel · Railway · Stripe · PayPal · OpenPix
