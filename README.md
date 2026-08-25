@@ -68,10 +68,10 @@ flows; technical SEO that reached 30.4k organic clicks in 12 months.
 
 <p align="center">
   <a href="https://github.com/tiagogcastro">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tiagogcastro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub stats" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tiagogcastro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub stats" />
   </a>
   <a href="https://github.com/tiagogcastro">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogcastro&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagogcastro&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
   </a>
 </p>
 
@@ -80,7 +80,12 @@ flows; technical SEO that reached 30.4k organic clicks in 12 months.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagogcastro&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F0883E&hide_border=true" alt="Contribution graph" />
+  <a href="https://github.com/tiagogcastro">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tiagogcastro&theme=github_dark" alt="Most commit languages" />
+  </a>
+  <a href="https://github.com/tiagogcastro">
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagogcastro&theme=github_dark" alt="Productive time" />
+  </a>
 </p>
 
 ## Tech stack
