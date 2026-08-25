@@ -47,11 +47,7 @@ flows; technical SEO that reached 30.4k organic clicks in 12 months.
 <p align="center">
   <a href="https://tiagogcastro.com.br"><strong>tiagogcastro.com.br</strong></a> - sites, systems and digital products
 </p>
-<p align="center">
-  <a href="https://tiagogcastro.com.br">
-    <img src="assets/portfolio-desktop.png" alt="tiagogcastro.com.br" width="800" />
-  </a>
-</p>
+
 
 ## GitHub stats
 
