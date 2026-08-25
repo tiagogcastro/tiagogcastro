@@ -45,38 +45,23 @@ flows; technical SEO that reached 30.4k organic clicks in 12 months.
 ## Portfolio
 
 <p align="center">
+  <a href="https://tiagogcastro.com.br"><strong>tiagogcastro.com.br</strong></a> - sites, systems and digital products
+</p>
+<p align="center">
   <a href="https://tiagogcastro.com.br">
     <img src="assets/portfolio-desktop.png" alt="tiagogcastro.com.br" width="800" />
   </a>
 </p>
-<p align="center">
-  <a href="https://tiagogcastro.com.br"><strong>tiagogcastro.com.br</strong></a> - sites, systems and digital products
-</p>
-
-## Featured projects
-
-| Project | What it is |
-|---|---|
-| [nexsift](https://github.com/tiagogcastro/nexsift) | AI-assisted tech intelligence platform |
-| [ai-i18n-translate](https://github.com/tiagogcastro/ai-i18n-translate) | npm library: AI-powered i18n JSON translation CLI |
-| [aws-iac-blueprint](https://github.com/tiagogcastro/aws-iac-blueprint) | Terraform + Terragrunt IaC blueprint, fully local via LocalStack |
-| [arborin](https://github.com/tiagogcastro/arborin) | Organizational intelligence platform (pre-MVP) |
-| [my-crypto-monster](https://github.com/tiagogcastro/my-crypto-monster) | Fullstack crypto dashboard monorepo |
-| [ignews](https://github.com/tiagogcastro/ignews) | Subscription blog with Stripe, Prismic and FaunaDB |
 
 ## GitHub stats
 
 <p align="center">
   <a href="https://github.com/tiagogcastro">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tiagogcastro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub stats" />
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagogcastro&theme=github_dark" alt="GitHub stats" />
   </a>
   <a href="https://github.com/tiagogcastro">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiagogcastro&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagogcastro&theme=github_dark" alt="Top languages" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tiagogcastro&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" alt="Commit streak" height="165" />
 </p>
 
 <p align="center">
