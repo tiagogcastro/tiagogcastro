@@ -1,6 +1,10 @@
-# Tiago Gonçalves de Castro
+<h1 align="center">Tiago Gonçalves de Castro</h1>
 
-<p align="left">
+<p align="center">
+  <a href="https://tiagogcastro.com.br"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Fullstack+Cloud+Developer;Node.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Next.js;AWS+%C2%B7+GCP+%C2%B7+Terraform+%C2%B7+Data+Lake;Applied+AI+in+production" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Fullstack%20Cloud-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -8,76 +12,85 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-Fullstack Cloud Developer focused on **Node.js**, **TypeScript**, **React**, **Next.js**, **AWS**, **GCP**, **Data Lake**, **DevOps**, **IaC** and **Applied AI**.
-
-I work across product and infrastructure, building web applications, APIs, cloud platforms, data pipelines, integrations, real-time systems and AI-powered solutions for real production environments.
-
-[LinkedIn](https://www.linkedin.com/in/tiagogcastro) · [GitHub](https://github.com/tiagogcastro) · [Resume PT-BR](./Tiago_Castro_Resume_Fullstack_Cloud_Developer_en_US.pdf)
-
----
-
-## About me
-
-I currently work on the technical evolution of **Lakeit**, an enterprise Data Lake platform, focusing on AWS, Terraform, Terragrunt, data pipelines, cloud governance, cost optimization, applied AI and production support for environments with active clients.
-
-I also work on demand as the technical owner of **Futbuynow**, a digital marketplace platform in the gaming niche, involving sellers, affiliates, online payments, technical SEO, data analysis, infrastructure, AI automations and real-time operations.
-
-I am focused on growing into roles with greater technical responsibility, connecting software development, architecture, cloud, product, data and applied AI while staying hands-on and close to the code.
-
----
-
-## Focus areas
-
-- Fullstack Cloud
-- AWS/GCP architecture
-- Data Lake and data pipelines
-- DevOps and infrastructure as code
-- Applied AI and LLM automations
-- Real-time systems
-- Marketplaces and online payments
-- Technical SEO and data analysis
-
----
-
-## Main experience
-
-### Lakeit
-
-- Technical evolution of an enterprise Data Lake platform in production with active clients
-- AWS cost reduction from an average above **US$ 2,300/month** to a range between **US$ 800 and US$ 1,000/month**
-- Infrastructure as code with **Terraform** and **Terragrunt**
-- Data pipelines with **S3**, **SQS**, **SNS**, **Step Functions**, **Glue**, **Athena**, **Lambda**, **IAM** and **Lake Formation**
-- AI assistant with **AWS Bedrock**, **RAG**, conversational memory, Athena SQL generation, Glue schemas, reports and charts
-- Work with clients and stakeholders on requirements analysis, technical presentations, training sessions and platform evolution
-
-### Futbuynow
-
-- Digital marketplace platform in the gaming niche
-- **11,000+ registered users**
-- **26,000+ created orders** and **20,000+ paid orders**
-- Average of **500 to 800 paid orders/month** and **400 to 500 active buyers/month**
-- Integrations with **OpenPix**, **Stripe** and **PayPal**
-- Real-time operations with **Socket.IO**
-- Technical SEO with **30.4k clicks** in 12 months
-- Infrastructure with **Cloudflare**, **Vercel**, **Railway**, **AWS RDS** and **GitHub Actions**
-
----
-
-## Main stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terragrunt-5C4EE5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square" />
+<p align="center">
+  <a href="https://tiagogcastro.com.br"><strong>tiagogcastro.com.br</strong></a> ·
+  <a href="https://www.linkedin.com/in/tiagogcastro">LinkedIn</a> ·
+  <a href="./Tiago_Castro_Resume_Fullstack_Cloud_Developer_en_US.pdf">Resume</a> ·
+  <a href="mailto:tiagogcastro1@gmail.com">Email</a>
 </p>
 
-- Node.js · TypeScript · React · Next.js · NestJS · Express
-- AWS · GCP · Terraform · Terragrunt · Docker · GitHub Actions
-- S3 · SQS · SNS · Step Functions · Glue · Athena · Lambda · Bedrock
-- Vertex AI · BigQuery · PostgreSQL · MySQL · Redis · Socket.IO
-- Cloudflare · Vercel · Railway · Stripe · PayPal · OpenPix
+---
+
+## About
+
+Fullstack Cloud Developer (Systems Analysis and Development graduate) with full-level
+experience in web systems, APIs, marketplace platforms, Data Lake, infrastructure as code
+and AI applied in production. I work end to end: product development, cloud architecture,
+integrations, automations and infrastructure optimization.
+
+**HITSS | Lakeit** (Jan 2024 - present): technical evolution of an enterprise Data Lake
+platform in production with active customers. Reorganized AWS infrastructure with
+Terraform/Terragrunt (cutting monthly costs from $2,300+ to $800-1,000), evolved
+event-driven pipelines (S3, SQS, SNS, Step Functions, Glue, Athena, Lambda, Lake Formation)
+and built an AI assistant for data exploration with Bedrock, RAG and Athena SQL generation.
+
+**Futbuynow** (Feb 2023 - present, freelance technical owner): marketplace for digital
+products in the gaming niche with 11,000+ users and 20,000+ paid orders. Monorepo with
+Node/Express API, React/Vite dashboard and Next.js website; OpenPix, Stripe and PayPal
+flows; technical SEO that reached 30.4k organic clicks in 12 months.
+
+## Portfolio
+
+<p align="center">
+  <a href="https://tiagogcastro.com.br">
+    <img src="assets/portfolio-desktop.png" alt="tiagogcastro.com.br" width="800" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://tiagogcastro.com.br"><strong>tiagogcastro.com.br</strong></a> - sites, systems and digital products
+</p>
+
+## Featured projects
+
+| Project | What it is |
+|---|---|
+| [nexsift](https://github.com/tiagogcastro/nexsift) | AI-assisted tech intelligence platform |
+| [ai-i18n-translate](https://github.com/tiagogcastro/ai-i18n-translate) | npm library: AI-powered i18n JSON translation CLI |
+| [aws-iac-blueprint](https://github.com/tiagogcastro/aws-iac-blueprint) | Terraform + Terragrunt IaC blueprint, fully local via LocalStack |
+| [arborin](https://github.com/tiagogcastro/arborin) | Organizational intelligence platform (pre-MVP) |
+| [my-crypto-monster](https://github.com/tiagogcastro/my-crypto-monster) | Fullstack crypto dashboard monorepo |
+| [ignews](https://github.com/tiagogcastro/ignews) | Subscription blog with Stripe, Prismic and FaunaDB |
+
+## GitHub stats
+
+<p align="center">
+  <a href="https://github.com/tiagogcastro">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tiagogcastro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/tiagogcastro">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogcastro&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tiagogcastro&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" alt="Commit streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagogcastro&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F0883E&hide_border=true" alt="Contribution graph" />
+</p>
+
+## Tech stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,express,nestjs,prisma,graphql,postgres,mysql,redis,mongo,aws,gcp,terraform,docker,git,githubactions,vite,tailwind&perline=10" alt="Tech stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tiagogcastro&color=58A6FF&style=flat-square" alt="Profile views" />
+</p>
