@@ -1,5 +1,6 @@
 <h1 align="center">Tiago Gonçalves de Castro</h1>
 
+
 <p align="center">
   <a href="https://tiagogcastro.com.br"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Fullstack+Cloud+Developer;Node.js+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Next.js;AWS+%C2%B7+GCP+%C2%B7+Terraform+%C2%B7+Data+Lake;Applied+AI+in+production" alt="Typing SVG" /></a>
 </p>
@@ -57,6 +58,7 @@ View all my credentials on [Credly](https://www.credly.com/users/tiagogcastro).
 
 Check out my portfolio site: [tiagogcastro.com.br](https://tiagogcastro.com.br) - websites, systems and digital products I build and evolve.
 
+Link da comunidade no WhatsApp: [clique aqui](https://chat.whatsapp.com/IyGb5aqFU2QIqEMSI2qCY4)
 
 ## GitHub stats
 
