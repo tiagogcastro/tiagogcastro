@@ -19,7 +19,8 @@
 <p align="center">
   <a href="https://tiagogcastro.com.br"><strong>tiagogcastro.com.br</strong></a> ·
   <a href="https://www.linkedin.com/in/tiagogcastro">LinkedIn</a> ·
-  <a href="./Tiago_Castro_Resume_Fullstack_Cloud_Developer_en_US.pdf">Resume</a> ·
+  <a href="./.github/Tiago_Castro_Curriculo_Desenvolvedor_Fullstack_Cloud.pdf">Currículo</a> ·
+  <a href="./.github/Tiago_Castro_Resume_Fullstack_Cloud_Developer_en_US.pdf">Resume</a> ·
   <a href="mailto:tiagogcastro1@gmail.com">Email</a>
 </p>
 
@@ -47,8 +48,15 @@ flows; technical SEO that reached 30.4k organic clicks in 12 months.
 
 View all my credentials on [Credly](https://www.credly.com/users/tiagogcastro).
 
-- **AWS Certified AI Practitioner** - Amazon Web Services Training and Certification ([view credential](https://www.credly.com/badges/f21d87ea-e9df-46b9-9d0b-938f728f79b6/public_url))
-- **AWS Serverless Demonstrated** - Amazon Web Services Training and Certification ([view badge](https://www.credly.com/badges/c12ab3fd-2e95-4f3e-b4db-9d1eb75be81d/public_url))
+<p align="center">
+  <a href="https://www.credly.com/badges/2e86b275-895d-49f4-807e-d6e264ef47e4/public_url"><img src="./.github/aws-certified-cloud-practitioner-144px.png" width="140" alt="AWS Certified Cloud Practitioner" /></a>
+  <a href="https://www.credly.com/badges/f21d87ea-e9df-46b9-9d0b-938f728f79b6/public_url"><img src="./.github/aws-certified-ai-practitioner-144px.png" width="140" alt="AWS Certified AI Practitioner" /></a>
+  <a href="https://www.credly.com/badges/c12ab3fd-2e95-4f3e-b4db-9d1eb75be81d/public_url"><img src="./.github/aws-serverless-demonstrated-144px.png" width="140" alt="AWS Serverless Demonstrated" /></a>
+</p>
+
+- **AWS Certified Cloud Practitioner (CLF-C02)** - Sept 2026 ([view credential](https://www.credly.com/badges/2e86b275-895d-49f4-807e-d6e264ef47e4/public_url))
+- **AWS Certified AI Practitioner (AIF-C01)** - Sept 2026 ([view credential](https://www.credly.com/badges/f21d87ea-e9df-46b9-9d0b-938f728f79b6/public_url))
+- **AWS Serverless Demonstrated** - Aug 2026 ([view badge](https://www.credly.com/badges/c12ab3fd-2e95-4f3e-b4db-9d1eb75be81d/public_url))
 
 ## Professional Development
 
