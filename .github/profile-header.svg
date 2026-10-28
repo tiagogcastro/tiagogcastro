@@ -1,0 +1,30 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Tiago G Castro — Fullstack Developer</title>
+  <desc id="description">Backend, cloud, DevOps and Generative AI</desc>
+
+  <rect width="1200" height="300" rx="18" fill="#111713"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" stroke="#3A4840" stroke-width="2"/>
+
+  <path d="M704 0V56L765 117H1035" stroke="#2E3D35" stroke-width="2"/>
+  <path d="M650 300V247L734 163H1200" stroke="#2E3D35" stroke-width="2"/>
+  <path d="M872 117H1035L1085 67H1200" stroke="#526158" stroke-width="2" opacity="0.45"/>
+  <circle cx="765" cy="117" r="5" fill="#D6B36A"/>
+  <circle cx="734" cy="163" r="5" fill="#D6B36A"/>
+  <circle cx="1085" cy="67" r="4" fill="#7E9E8C"/>
+
+  <g transform="translate(62 68) scale(1.625)">
+    <rect x="1.5" y="1.5" width="61" height="61" rx="13" fill="#26372E" stroke="#789987" stroke-width="2"/>
+    <path d="M8 18.5H38L38 25Q23 22 8 25ZM20.25 21.75H25.75V41L29.75 46H16.25L20.25 41Z" fill="#F2F0E8"/>
+    <path d="M57 23Q50 28 43 33M43 33Q50 38 57 43" fill="none" stroke="#C9AA70" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <rect x="190" y="76" width="3" height="88" fill="#7E9E8C"/>
+  <text x="220" y="131" fill="#F1EFE7" font-family="Georgia, serif" font-size="50" letter-spacing="3">TIAGO G CASTRO</text>
+
+  <text x="64" y="218" fill="#D6B36A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">FULLSTACK DEVELOPER</text>
+  <text x="64" y="255" fill="#B7BDB8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Backend  ·  Cloud  ·  DevOps  ·  Generative AI</text>
+
+  <rect x="930" y="208" width="204" height="42" rx="21" fill="#1D2922" stroke="#526158"/>
+  <circle cx="955" cy="229" r="5" fill="#76B889"/>
+  <text x="972" y="235" fill="#D8DDD9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">2x AWS Certified</text>
+</svg>
